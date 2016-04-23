@@ -1,9 +1,9 @@
 # Markdown Wiki Testing
 
 [Home](index.md)
-[Page1](page1.md)
-[Page2](page2.md)
-[Page3](page3.md)
+[About](page1.md)
+[Archives](page2.md)
+[Links](page3.md)
 
 [WEB]()
 
